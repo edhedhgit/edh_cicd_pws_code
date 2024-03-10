@@ -1,5 +1,6 @@
 param (
     [string]$userID
+    
 )
 
 # Make an HTTP request to ReqRes API
